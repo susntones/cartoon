@@ -1,0 +1,32 @@
+{
+  "title": "狐假虎威：森林里的假大王",
+  "adaptation": "依据《战国策·楚策一》古代故事重新编写；非网络课本剧或现有动画逐字转录。第15镜为新增喜剧尾声。",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "style": "原创二维绘本漫画，粗细统一的深棕描边，柔和赛璐璐色块，暖色森林，简洁背景，夸张清晰的表情，竖屏9:16，单幅画面，无文字，无水印式装饰，不模仿现有IP",
+  "negative_prompt": "多余肢体，角色融合，写实恐怖，血腥，文字，对话气泡，分格漫画，复杂群众，服饰改变，毛色改变，身体截断",
+  "characters": {
+    "fox": "橙红色小狐狸，白色口鼻和胸腹，白色尾尖，一条蓬松大尾巴，绿色小围巾，细长眉毛，身高约为老虎一半；所有镜头保持相同设计",
+    "tiger": "圆脸橙黄色大老虎，黑色条纹，白色口鼻和肚皮，蓝色短马甲，圆耳，大鼻头，一条尾巴，强壮但不恐怖；所有镜头保持相同设计",
+    "rabbit": "小白兔，粉色内耳，红色小背包，短圆尾巴，身高略低于狐狸；不说话"
+  },
+  "scene": "同一片白天的暖色森林小路，左边一棵分叉大树，右边低矮灌木，后方浅色弯曲小路，光线从左上照入，禁止出现建筑和人类",
+  "shots": [
+    {"id":"01","duration":5,"speaker":"tiger","emotion":"惊喜、得意，不要恐怖咆哮","text":"抓到你了！今天的晚餐有着落了！","characters":["fox","tiger"],"visual":"中景，老虎在右侧挡住小路，狐狸在左侧惊讶后仰；仅阻挡去路，无抓咬，无接触。","motion":"缓慢推进"},
+    {"id":"02","duration":6,"speaker":"fox","emotion":"先慌张，随后强装镇定","text":"等等！我可不是普通的狐狸！","characters":["fox"],"visual":"狐狸胸部以上近景，眼珠向右，眉毛抬起，一只前爪举起作停止手势；身后森林虚化。","motion":"缓慢推进"},
+    {"id":"03","duration":6,"speaker":"fox","emotion":"一本正经、虚张声势","text":"天帝派我来管理百兽，你也得听我的！","characters":["fox"],"visual":"狐狸单人中景，昂首挺胸，绿色围巾清楚，身侧一块小石头；不要出现天帝或文字。","motion":"缓慢拉远"},
+    {"id":"04","duration":6,"speaker":"tiger","emotion":"疑惑、怀疑","text":"就凭你？有什么证据？","characters":["tiger"],"visual":"老虎面部近景，一边眉毛抬起，歪头怀疑，蓝马甲上缘可见。","motion":"缓慢推进"},
+    {"id":"05","duration":6,"speaker":"fox","emotion":"自信地诱导","text":"跟在我后面走一圈，看看谁不怕我！","characters":["fox"],"visual":"狐狸单人中景，身体朝小路方向，回头看镜头外右侧老虎，前爪指向左前方。","motion":"缓慢拉远"},
+    {"id":"06","duration":6,"speaker":"narrator","emotion":"轻松讲故事","text":"狐狸走在前面，老虎半信半疑地跟着。","characters":["fox","tiger"],"visual":"侧面全景，两者面朝左，狐狸在画面左前，老虎在右后，间距半个老虎身长，保持体型比例；用行走定格而非复杂动作。","motion":"缓慢推进"},
+    {"id":"07","duration":6,"speaker":"narrator","emotion":"轻松，带一点悬念","text":"路边的小兔抬起头，先看见了狐狸。","characters":["rabbit"],"visual":"小白兔单人中景，站在右侧灌木旁，抬头好奇地看向画面左侧，红背包清楚。","motion":"缓慢推进"},
+    {"id":"08","duration":6,"speaker":"narrator","emotion":"突然紧张但不惊吓","text":"可一看清后面的老虎，它立刻躲了起来！","characters":["rabbit","tiger"],"visual":"右前方小兔半身藏在灌木后、双耳竖直；左后方清楚可辨的老虎站在小路上；两角色不重叠，不画狐狸。","motion":"缓慢推进"},
+    {"id":"09","duration":6,"speaker":"tiger","emotion":"困惑，低声自语","text":"咦？它怎么一看见你就跑？","characters":["tiger"],"visual":"老虎单人近景，视线朝画面左边，圆眼睁大，露出困惑的表情。","motion":"缓慢拉远"},
+    {"id":"10","duration":6,"speaker":"fox","emotion":"得意，故作威严","text":"看见没有？这就是我的威风！","characters":["fox"],"visual":"狐狸单人中景，昂头微笑，一爪叉腰，绿围巾和白色尾尖清晰，背后无其他动物。","motion":"缓慢推进"},
+    {"id":"11","duration":6,"speaker":"tiger","emotion":"被说服、客气","text":"原来你这么厉害！请，请先走！","characters":["tiger"],"visual":"老虎单人中景，身体向右退让出左边道路，一只前爪作请的姿势，尴尬又客气。","motion":"缓慢拉远"},
+    {"id":"12","duration":6,"speaker":"narrator","emotion":"轻快，揭示侥幸逃脱","text":"狐狸趁机溜走，这才松了一口气。","characters":["fox"],"visual":"狐狸单人中景，已经来到同一小路的分叉树后，背靠树干，一爪轻按胸前，明显如释重负。","motion":"缓慢拉远"},
+    {"id":"13","duration":6,"speaker":"narrator","emotion":"清晰揭示真相","text":"小兔怕的，明明是狐狸身后的老虎。","characters":["rabbit"],"visual":"小兔从同一片灌木中探头，皱眉无奈，视线朝左侧；不要画对话框或文字。","motion":"缓慢推进"},
+    {"id":"14","duration":6,"speaker":"narrator","emotion":"明确但不说教","text":"借着别人的威势吓唬人，就叫狐假虎威。","characters":["fox","tiger"],"visual":"解释性静态双人画面：小狐狸站在左前方神气昂头，大老虎站在右后方；同一森林小路，突出体型反差，不画文字。","motion":"缓慢拉远"},
+    {"id":"15","duration":7,"speaker":"tiger","emotion":"慢半拍的恍然大悟，结尾停顿","text":"等等！它刚才看的……好像是我？","characters":["tiger"],"visual":"老虎单人面部特写，前爪指向自己，眉毛高抬，眼睛睁圆，后方空荡的小路；喜剧收尾。","motion":"缓慢推进"}
+  ]
+}

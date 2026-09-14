@@ -1,0 +1,16 @@
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV13fLw6vEbN/
+[BiliBili] 13fLw6vEbN: Downloading webpage
+[BiliBili] BV13fLw6vEbN: Extracting videos in anthology
+[BiliBili] Downloading just the video BV13fLw6vEbN because of --no-playlist
+[BiliBili] BV13fLw6vEbN: Downloading wbi sign
+[BiliBili] BV13fLw6vEbN: Downloading video formats for cid 38419694814
+[BiliBili] 116594420220306: Extracting chapters
+[info] BV13fLw6vEbN_p1: Downloading 1 format(s): 100023+30232
+[info] Writing video metadata as JSON to: /Users/liulei/chengxiao/cartoon/视频资源/BV13fLw6vEbN_p1.info.json
+[download] Destination: /Users/liulei/chengxiao/cartoon/视频资源/BV13fLw6vEbN_p1.f100023.mp4
+[download] Download completed
+[download] Destination: /Users/liulei/chengxiao/cartoon/视频资源/BV13fLw6vEbN_p1.f30232.m4a
+[download] Download completed
+[Merger] Merging formats into "/Users/liulei/chengxiao/cartoon/视频资源/BV13fLw6vEbN_p1.mp4"
+Deleting original file /Users/liulei/chengxiao/cartoon/视频资源/BV13fLw6vEbN_p1.f30232.m4a (pass -k to keep)
+Deleting original file /Users/liulei/chengxiao/cartoon/视频资源/BV13fLw6vEbN_p1.f100023.mp4 (pass -k to keep)

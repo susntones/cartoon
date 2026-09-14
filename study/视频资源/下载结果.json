@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.bilibili.com/video/BV1Av7Z67Epd/",
+    "status": "失败（见日志）",
+    "log": "BV1Av7Z67Epd.log"
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV1SFiWBTEj9/",
+    "status": "失败（见日志）",
+    "log": "BV1SFiWBTEj9.log"
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV11CUnBWEf7/",
+    "status": "成功",
+    "log": "BV11CUnBWEf7.log"
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV1A6osBHEqa/",
+    "status": "成功",
+    "log": "BV1A6osBHEqa.log"
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV13XA2z5ECQ/",
+    "status": "失败（见日志）",
+    "log": "BV13XA2z5ECQ.log"
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV16NAEzkE3Z/",
+    "status": "成功",
+    "log": "BV16NAEzkE3Z.log"
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV1wiL16gEKv/",
+    "status": "成功",
+    "log": "BV1wiL16gEKv.log"
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV1VsFfz3EDr/",
+    "status": "失败（见日志）",
+    "log": "BV1VsFfz3EDr.log"
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV13fLw6vEbN/",
+    "status": "成功",
+    "log": "BV13fLw6vEbN.log"
+  }
+]
