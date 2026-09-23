@@ -1,1 +1,4 @@
 .download-tools
+.DS_Store
+.omc/
+.osc/
